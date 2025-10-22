@@ -5,7 +5,7 @@ Please have a look at the [Haml Coffee Changelog](https://github.com/netzpirat/h
 ## Master
 
 ## 1.28.0 - Oct 22th, 2025
-- [#196][]: Add support for Rails 8.1.0
+- [#198][]: Add support for Rails 8.1.0
 
 ## 1.27.0 - Nov 14th, 2024
 - [#196][]: Add support for Rails 8.0.0
